@@ -41,13 +41,31 @@ namespace repit
                     Console.WriteLine();
                 }
             }
+            else if (choose == 4)
+            {
+                int size = 5;
+
+                for (int h = 0; h < size; h++)
+                {
+                    for (int u = 0; u <= h; u++)
+                    {
+                        Console.Write(" ");
+                    }
+                    for (int y = 0; y < size-h; y++)
+                    {
+                        Console.Write("*");
+                        
+                    }
+                    Console.WriteLine();
+                }
+            }
         }
 
         static void Main(string[] args)
         {
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < 4; i++)
             {
-                Console.WriteLine("Lets repit functions, choose 1, 2 or 3");
+                Console.WriteLine("Lets repit functions, choose 1, 2, 3 or 4");
                 int choose = int.Parse(Console.ReadLine());
                 message(choose);
             }

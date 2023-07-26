@@ -1,0 +1,15 @@
+D:\VS\repit\repit\bin\Debug\net6.0\repit.exe
+D:\VS\repit\repit\bin\Debug\net6.0\repit.deps.json
+D:\VS\repit\repit\bin\Debug\net6.0\repit.runtimeconfig.json
+D:\VS\repit\repit\bin\Debug\net6.0\repit.dll
+D:\VS\repit\repit\bin\Debug\net6.0\repit.pdb
+D:\VS\repit\repit\obj\Debug\net6.0\repit.csproj.AssemblyReference.cache
+D:\VS\repit\repit\obj\Debug\net6.0\repit.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\repit\repit\obj\Debug\net6.0\repit.AssemblyInfoInputs.cache
+D:\VS\repit\repit\obj\Debug\net6.0\repit.AssemblyInfo.cs
+D:\VS\repit\repit\obj\Debug\net6.0\repit.csproj.CoreCompileInputs.cache
+D:\VS\repit\repit\obj\Debug\net6.0\repit.dll
+D:\VS\repit\repit\obj\Debug\net6.0\refint\repit.dll
+D:\VS\repit\repit\obj\Debug\net6.0\repit.pdb
+D:\VS\repit\repit\obj\Debug\net6.0\repit.genruntimeconfig.cache
+D:\VS\repit\repit\obj\Debug\net6.0\ref\repit.dll

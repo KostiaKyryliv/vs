@@ -68,6 +68,7 @@ namespace repit
                 Console.WriteLine("Lets repit functions, choose 1, 2, 3 or 4");
                 int choose = int.Parse(Console.ReadLine());
                 message(choose);
+                Console.WriteLine("Trypull");
             }
         }
     }

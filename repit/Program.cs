@@ -21,7 +21,20 @@ namespace add1
                 
                 for (int i = 0; i < size; i++) 
                 { 
-                    for(int j = 0; j < size-i; j++)
+                    for(int j = 0; j <size-i; j++)
+                    {
+                        Console.Write("*");
+                    }
+                    Console.WriteLine();
+                }
+            }
+            else if (choose == 3)
+            {
+                int size = 5;
+
+                for (int g = 0; g < size; g++)
+                {
+                    for (int f = 0; f <= g; f++)
                     {
                         Console.Write("*");
                     }
@@ -32,9 +45,9 @@ namespace add1
 
         static void Main(string[] args)
         {
-            for (int i = 0; i < 2; i++)
+            for (int i = 0; i < 3; i++)
             {
-                Console.WriteLine("Lets repit functions, choose 1 or 2");
+                Console.WriteLine("Lets repit functions, choose 1, 2 or 3");
                 int choose = int.Parse(Console.ReadLine());
                 message(choose);
             }
